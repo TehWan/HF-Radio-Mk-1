@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name HF_Radio)(type Legacy)(uri ${KIPRJMOD}/HF_Radio.lib)(options "")(descr ""))
+)
