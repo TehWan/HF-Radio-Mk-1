@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name freq-synth)(type Legacy)(uri ${KIPRJMOD}/freq-synth.lib)(options "")(descr ""))
+)

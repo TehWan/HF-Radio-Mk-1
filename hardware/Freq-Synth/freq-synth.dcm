@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HCT9046A
+D PLL with band gap controlled VCO
+K PLL, VCO, 74xx
+F https://assets.nexperia.com/documents/data-sheet/74HCT9046A.pdf
+$ENDCMP
+#
+#End Doc Library
